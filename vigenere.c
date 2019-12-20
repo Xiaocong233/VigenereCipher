@@ -27,7 +27,7 @@ int main(int argc, string argv[])
                 break;
             }
         }
-        if (check == true) //if passed the check
+        if (check == true) //if passed the alphabetical check
         {
             string plaintext = get_string("plaintext:  "); //prompt for the user's input of text that needs to be ciphered
             int key;
